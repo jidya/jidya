@@ -61,9 +61,10 @@ I enjoy transforming raw data into meaningful insights that support decision-mak
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jidya&show_icons=true&theme=default&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=jidya&show_icons=true&theme=transparent" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jidya&layout=compact&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jidya&layout=compact&theme=transparent" />
+
 
 
 ---
