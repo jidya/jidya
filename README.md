@@ -14,6 +14,9 @@ I enjoy transforming raw data into meaningful insights that support decision-mak
 ---
 
 ## 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+</p>
 
 **Data Analysis**
 
